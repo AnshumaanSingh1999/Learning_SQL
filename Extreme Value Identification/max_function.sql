@@ -1,0 +1,1 @@
+SELECT MAX(Amt_Spent) as Max_AMT_SPENT FROM sql_techniques;

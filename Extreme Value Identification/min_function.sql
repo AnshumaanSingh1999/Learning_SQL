@@ -1,0 +1,1 @@
+SELECT MIN(Amt_Spent) as Min_AMT_SPENT FROM sql_techniques;

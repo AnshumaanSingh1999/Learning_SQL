@@ -1,0 +1,1 @@
+SELECT * FROM sql_techniques LIMIT 2 OFFSET 3;
