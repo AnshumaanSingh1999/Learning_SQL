@@ -1,0 +1,1 @@
+SELECT SUM(Amt_Spent) as TotalAmountSpent FROM sql_techniques;

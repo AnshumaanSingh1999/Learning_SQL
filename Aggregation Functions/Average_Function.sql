@@ -1,0 +1,1 @@
+SELECT AVG(Amt_Spent) FROM sql_techniques;
