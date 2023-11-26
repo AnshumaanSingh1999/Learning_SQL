@@ -1,0 +1,1 @@
+SELECT * FROM sql_techniques WHERE Industry IN ("Manufacturing", "Tech", "Creative");

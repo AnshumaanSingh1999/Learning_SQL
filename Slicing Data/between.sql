@@ -1,0 +1,1 @@
+SELECT * FROM sql_techniques WHERE Amt_Spent BETWEEN 1000 AND 3000;
