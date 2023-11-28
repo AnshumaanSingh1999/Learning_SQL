@@ -1,0 +1,1 @@
+SELECT table_a.UserID, table_b.Order_amt FROM table_a RIGHT JOIN table_b ON table_a.OrderID=table_b.order_id;
