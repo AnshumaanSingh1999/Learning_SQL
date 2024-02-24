@@ -1,7 +1,7 @@
-SELECT *, 
+SELECT *,
 CASE
-WHEN Fees=200000 THEN "Merit"
-WHEN Fees>200000 AND Fees<=300000 THEN "Subsequent Category"
-ELSE "Management Quota"
-END AS Student_Category
+WHEN Fees>=150000 AND Fees<=250000 THEN "First Category"
+WHEN Fees=300000 THEN "Second Category"
+ELSE "Third Category and Above"
+END AS "Student Category"
 FROM learning_table;
