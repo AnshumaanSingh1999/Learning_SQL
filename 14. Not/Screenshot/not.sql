@@ -1,1 +1,0 @@
-SELECT * FROM learning_table WHERE NOT Category>1;
