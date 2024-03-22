@@ -1,0 +1,1 @@
+SELECT * FROM sql_techniques WHERE amt_spent IN (SELECT MAX(Amt_Spent) FROM sql_techniques GROUP BY Industry);
