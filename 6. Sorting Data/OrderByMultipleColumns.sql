@@ -1,0 +1,1 @@
+SELECT * FROM sql_techniques ORDER BY Industry ASC, Amt_Spent DESC;
